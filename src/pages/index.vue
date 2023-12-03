@@ -14,7 +14,6 @@ function go() {
 
 <template>
   <div>
-    <div i-carbon-campsite inline-block text-4xl />
     <p>
       <a rel="noreferrer" href="https://github.com/nyxb/velocita-lite" target="_blank">
         Velocita Lite
