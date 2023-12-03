@@ -13,7 +13,7 @@
 <br>
 
 <p align='center'>
-<a href="https://github.com/nyxb/velocita-lite/blob/main/README.md">Englisch</a> | <b>Vereinfachtes Chinesisch</b>
+<a href="https://github.com/nyxb/velocita-lite/blob/main/README.md">Englisch</a> | <b>Deutsch</b>
 </p>
 
 <br>
